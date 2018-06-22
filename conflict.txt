@@ -1,2 +1,3 @@
+second conflict by userA
 second conflict by userB
 conflict-userA and userB
